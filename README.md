@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JamesDuncanCampbell
 - 👀 I’m interested in software egineering and data science
-- 🌱 I’m currently learning Front-End Development
-- 💞️ I’m looking to collaborate on software using javascript/python/HTML/CSS
+- 💞️ I’m looking to collaborate on software using SQL/Python/R
 - 📫 How to reach me james.campbell90@outlook.com
 
 <!---
